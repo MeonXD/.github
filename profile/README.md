@@ -12,7 +12,7 @@
   </p>
   <p align="center">
     <a target="_blank" href="https://indiesia-development-team.itch.io/">
-      <img src="https://i.ibb.co.com/54prH60/YOU-CAN-SEE-WE-IN.png">
+      <img src="https://i.ibb.co.com/09JJb5f/Untitled-256-x-70-px-1235-x-388-px-2.png">
     </a>
   </p>
 </p>
