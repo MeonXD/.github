@@ -11,8 +11,8 @@
     <strong>Sedang membuat game mohon tunggu ya !</strong>
   </p>
   <p align="center">
-    <a target="_blank" href="https://discord.gg/y93AuRGX">
-      <img src="https://i.ibb.co.com/n3ypmcT/INDIESIA.png">
+    <a target="_blank" href="https://indiesia-development-team.itch.io/">
+      <img src="https://i.ibb.co.com/54prH60/YOU-CAN-SEE-WE-IN.png">
     </a>
   </p>
 </p>
