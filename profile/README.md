@@ -1,13 +1,19 @@
-## Indiesia Development Team
-di sinilah perjalanan kita bermuara
+<h1>
+<p align="center">
+  <a href="https://github.com/Indiesia-Development-Team">
+    <img src="https://i.ibb.co.com/n3ypmcT/INDIESIA.png" alt="Logo" width="128">
+  </a>
+  <br>Indiesia Development Team
+</h1>
+  <p align="center">
+    .Developer Dari Indonesia, 4 Orang : Meon, Antx, Han, Binz
+    <br />
+    <strong>Sedang membuat game mohon tunggu ya !</strong>
+  </p>
+  <p align="center">
+    <a target="_blank" href="https://discord.gg/y93AuRGX">
+      <img src="https://i.ibb.co.com/n3ypmcT/INDIESIA.png">
+    </a>
+  </p>
+</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
